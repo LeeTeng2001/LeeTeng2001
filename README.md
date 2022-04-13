@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Vulkan
+- 🌱 I’m interested in: rendering & game technology, system programming, web technology
 - 📫 How to reach me: leeteng2001@sjtu.edu.cn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeTeng2001&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
