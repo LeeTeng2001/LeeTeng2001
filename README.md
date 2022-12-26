@@ -4,7 +4,7 @@
 - 📫 How to reach me: leeteng2001@sjtu.edu.cn
 - 🛠️ Tech/Life Blog: https://leeteng.netlify.app/blog/1
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTeng2001&show_icons=true&theme=radical)
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTeng2001&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeTeng2001&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
