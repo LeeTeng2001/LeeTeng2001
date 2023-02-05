@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in: rendering & game technology, system programming, web technology
 - 📫 How to reach me: leeteng2001@sjtu.edu.cn
-- 🛠️ Tech/Life Blog: https://leeteng.netlify.app/blog/1
+- 🛠️ Tech/Life Blog: https://leeteng.vercel.app/blog/1
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTeng2001&show_icons=true)
 
