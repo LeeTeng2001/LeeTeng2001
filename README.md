@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m interested in: rendering & game technology, system programming, web technology
+- 🌱 I’m interested in: rendering & game technology, system programming, web technology, self-hosted infrastructures
 - 📫 How to reach me: leeteng2001@sjtu.edu.cn
 - 🛠️ Tech/Life Blog: https://leeteng.com/blog/1
 
